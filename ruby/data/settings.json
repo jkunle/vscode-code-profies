@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "editor.quickSuggestions": false,
+    "editor.parameterHints": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.hover": false,
+    "editor.fontSize": 18,
+    "editor.tabCompletion": true,
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Night Owl",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "line",
+    "editor.minimap.renderCharacters": false,
+    "terminal.integrated.fontSize": 16,
+    "explorer.openEditors.visible": 0
+  }

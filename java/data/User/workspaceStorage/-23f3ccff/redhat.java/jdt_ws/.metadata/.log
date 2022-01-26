@@ -1,0 +1,4008 @@
+!SESSION 2021-10-31 01:08:39.346 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/-23f3ccff/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:42.834
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:43.512
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:43.649
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:43.656
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:43.835
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-debug-0.35.0/server/com.microsoft.java.debug.plugin-0.32.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:43.893
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-dependency-0.18.8/server/com.microsoft.jdtls.ext.core-0.18.8.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:43.951
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/com.microsoft.java.test.plugin-0.32.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:43.956
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.eclipse.jdt.junit4.runtime_1.1.1200.v20200214-0716.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:43.960
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.eclipse.jdt.junit5.runtime_1.0.900.v20200513-0617.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:43.997
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.jupiter.api_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.005
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.jupiter.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.012
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.jupiter.migrationsupport_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.042
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.jupiter.params_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.076
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.vintage.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.083
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.opentest4j_1.2.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.092
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.commons_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.132
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.engine_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.141
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.launcher_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.148
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.runner_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.152
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.suite.api_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.157
+!MESSAGE Installed reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.apiguardian_1.1.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.491
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.jupiter.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.492
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.jupiter.params_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.493
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.launcher_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.493
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.commons_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.494
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.apiguardian_1.1.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.494
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.jupiter.api_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.495
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.eclipse.jdt.junit4.runtime_1.1.1200.v20200214-0716.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.495
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.eclipse.jdt.junit5.runtime_1.0.900.v20200513-0617.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.496
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.runner_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.496
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.suite.api_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.497
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.jupiter.migrationsupport_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.497
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.platform.engine_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.498
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.junit.vintage.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.498
+!MESSAGE Started reference:file:/home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/server/org.opentest4j_1.2.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-10-31 01:08:44.499
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:169)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:89)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:63)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:237)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Contains: Cannot extract bundle symbolicName or version /home/jkunle/code_profiles/java/extensions/vscjava.vscode-maven-0.21.2/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.21.2.jar
+java.nio.file.NoSuchFileException: /home/jkunle/code_profiles/java/extensions/vscjava.vscode-maven-0.21.2/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.21.2.jar
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+	at java.base/sun.nio.fs.LinuxFileSystemProvider.readAttributes(LinuxFileSystemProvider.java:99)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1764)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1259)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:733)
+	at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:850)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:248)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:348)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:319)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:258)
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.getBundleInfo(BundleUtils.java:302)
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:116)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:89)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:63)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:237)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2021-10-31 01:08:44.500
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2021-10-31 01:08:44.500
+!MESSAGE Cannot extract bundle symbolicName or version /home/jkunle/code_profiles/java/extensions/vscjava.vscode-maven-0.21.2/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.21.2.jar
+!STACK 0
+java.nio.file.NoSuchFileException: /home/jkunle/code_profiles/java/extensions/vscjava.vscode-maven-0.21.2/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.21.2.jar
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+	at java.base/sun.nio.fs.LinuxFileSystemProvider.readAttributes(LinuxFileSystemProvider.java:99)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1764)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1259)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:733)
+	at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:850)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:248)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:348)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:319)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:258)
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.getBundleInfo(BundleUtils.java:302)
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:116)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:89)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:63)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:237)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.509
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.510
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.510
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.511
+!MESSAGE Non-Static Commands: [vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.511
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.511
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.512
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.512
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.519
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.521
+!MESSAGE Wait for AutoBuildOffJob end 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.521
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.522
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.523
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.523
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:44.551
+!MESSAGE Started org.eclipse.buildship.core 28ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:45.883
+!MESSAGE LoadingGradleVersionJob finished 1332ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:45.898
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:45.916
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:45.967
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:46.648
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:08:46.650
+!MESSAGE No previous Gradle project at /home/jkunle/source/demo-java, it must be synchronized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:08.535
+!MESSAGE Workspace initialized in 22649ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:08.556
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:08.563
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:08.578
+!MESSAGE >> New configuration: {java={home=/usr/lib/jvm/java-11-openjdk-amd64, jdt={ls={vmargs=-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null, globalSettings=null, notCoveredPluginExecutionSeverity=warning}, runtimes=[]}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null, home=null, java={home=null}, offline={enabled=false}, arguments=null, jvmArguments=null, user={home=null}}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false, updateSnapshots=false}, eclipse={downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}, insertSpaces=true, tabSize=4.0}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar], importOnFirstTimeStartup=automatic, importHint=true, resourceFilters=[node_modules, .git], exportJar={targetPath=${workspaceFolder}/${workspaceFolderBasename}.jar}}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, recommendations={dependency={analytics={show=true}}}, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*, sun.*, jdk.*, org.graalvm.*, io.micrometer.shaded.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}, insertionLocation=afterCursor}, selectionRange={enabled=true}, showBuildStatusOnStart={enabled=notification}, server={launchMode=Hybrid}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, imports={gradle={wrapper={checksums=[]}}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true, includeDecompiledSources=true}, typeHierarchy={lazyLoad=false}, settings={url=null}, symbols={includeSourceMethodDeclarations=false}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, numericPrecision=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, onBuildFailureProceed=false, console=integratedTerminal, exceptionBreakpoint={skipClasses=[]}, stepping={skipClasses=[], skipSynthetics=false, skipStaticInitializers=false, skipConstructors=false}, jdwp={limitOfVariablesPerJdwpRequest=100.0, requestTimeout=3000.0}, vmArgs=}}, silentNotification=false, dependency={showMembers=false, syncWithFolderExplorer=true, autoRefresh=true, refreshDelay=2000.0, packagePresentation=flat}, help={firstView=auto}, test={defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:08.580
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:08.914
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:08.916
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:08.939
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:08.946
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.032
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.652
+!MESSAGE Reconciled 2. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.866
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.867
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.920
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.921
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.925
+!MESSAGE Validated 2. Took 200 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.948
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.962
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.966
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.969
+!MESSAGE >> workspace/executeCommand java.project.getAll
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.971
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:09.981
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.000
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.005
+!MESSAGE >> workspace/executeCommand java.project.getAll
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.027
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.050
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.087
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.236
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.289
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.334
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.376
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY java-debug 1 0 2021-10-31 01:09:10.377
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:10.377
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.688
+!MESSAGE >> workspace/executeCommand java.project.listSourcePaths
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.689
+!MESSAGE >> workspace/executeCommand java.project.listSourcePaths
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.690
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.691
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.728
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.739
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.740
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.741
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.742
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.747
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.750
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:20.808
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:09:56.867
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:27:28.606
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:27:32.864
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:27:32.866
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:27:44.636
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:27:44.925
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:27:45.141
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:28:11.349
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:28:18.504
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:28:35.526
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:28:40.320
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:28:56.090
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:30:35.127
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:30:35.128
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:30:35.129
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestPackagesAndTypes
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:30:35.129
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:30:35.260
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:30:35.326
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:30:35.336
+!MESSAGE >> workspace/executeCommand vscode.java.test.findDirectTestChildrenForClass
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:30:35.476
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:31:27.986
+!MESSAGE >> workspace/executeCommand vscode.java.test.findJavaProjects
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.279
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.309
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.315
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.316
+!MESSAGE >> workspace/executeCommand java.project.listSourcePaths
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.322
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.513
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.514
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.636
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.827
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.883
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.889
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.900
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.933
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:03.978
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:04.094
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:04.566
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:04.566
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:04.592
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:04.593
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:04.600
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:04.601
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:04.601
+!MESSAGE Validated 3. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:04.633
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:05.031
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:05.034
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:05.065
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:05.254
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:18.686
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:22.403
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:25.472
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:25.473
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:25.474
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:25.475
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:25.477
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:25.628
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:25.676
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:34.593
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:34.595
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:34.596
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:34.597
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:34.598
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:34.754
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:35.035
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:51.898
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:51.900
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:51.900
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:51.901
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:51.903
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:52.052
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:52.119
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:57:58.791
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:00.577
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:00.578
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:00.578
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:00.579
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:00.738
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:00.847
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.166
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.170
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.174
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.177
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.178
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.178
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.179
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.183
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.483
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:02.486
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.034
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.037
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.039
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.042
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.042
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.042
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.043
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.046
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.350
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:04.352
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.328
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.331
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.333
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.335
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.336
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.337
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.338
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.340
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.641
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:05.643
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:22.698
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:22.701
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:22.704
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:22.709
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:22.709
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:22.710
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:22.712
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:22.715
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:23.012
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:23.014
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:25.464
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:30.164
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:33.664
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:33.665
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:33.666
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:33.667
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:33.667
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:33.675
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:33.823
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:33.874
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:43.030
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:43.031
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:43.032
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:43.032
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:43.034
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:43.187
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:43.238
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:47.184
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:47.186
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:47.186
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:47.187
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:47.189
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:47.340
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:47.412
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:48.761
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:48.762
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:48.763
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:48.764
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:48.765
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:48.916
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:48.968
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:58:58.738
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:18.611
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:24.416
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:24.488
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:24.489
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:24.490
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:24.643
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:24.690
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:24.805
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:26.557
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:26.562
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 01:59:26.565
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:00.223
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:00.224
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:00.232
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:30.587
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:30.836
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:30.876
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:30.881
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:30.881
+!MESSAGE >> workspace/executeCommand java.project.listSourcePaths
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:30.885
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.130
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.132
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.132
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.234
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.255
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.266
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.449
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.499
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.505
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.506
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.547
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.597
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.605
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.716
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.719
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:31.740
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.178
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.178
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.198
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.199
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.235
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.236
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.236
+!MESSAGE Validated 3. Took 70 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.253
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.588
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.592
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.715
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:32.899
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:33.066
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:33.082
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:48.916
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:49.000
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:49.002
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:49.002
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:49.063
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:49.149
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:49.199
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:49.312
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:00:51.168
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:07.286
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:07.287
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:07.306
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:07.488
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:07.489
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:07.494
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:08.172
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:08.174
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:08.178
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:08.427
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:08.428
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:08.432
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.462
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.496
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.501
+!MESSAGE >> workspace/executeCommand java.project.listSourcePaths
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.502
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.505
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.702
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.703
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.704
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.814
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:29.818
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.008
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.064
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.069
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.080
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.160
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.269
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.273
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.674
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.739
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.739
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.765
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.765
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.777
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.777
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.779
+!MESSAGE Validated 3. Took 60 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:30.815
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:31.214
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:31.217
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:31.241
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:31.432
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:59.576
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:59.824
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:59.863
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:59.867
+!MESSAGE >> workspace/executeCommand java.project.listSourcePaths
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:59.868
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:01:59.871
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.038
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.039
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.040
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.046
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.155
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.161
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.346
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.394
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.399
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.400
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.441
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.493
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.506
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.611
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.613
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:00.634
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.070
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.071
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.084
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.085
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.102
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.103
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.109
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.109
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.110
+!MESSAGE Validated 4. Took 48 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.151
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.575
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.580
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.580
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.772
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.929
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:01.943
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.005
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.189
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.242
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.242
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.286
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.354
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.414
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.458
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.476
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.528
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.917
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.917
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.928
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.928
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.944
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.967
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.978
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.978
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.979
+!MESSAGE Validated 4. Took 70 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:03.992
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:04.421
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:04.612
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:04.772
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:04.787
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:11.156
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:11.157
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:11.158
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:11.159
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:11.166
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:11.312
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:11.360
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:11.505
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.037
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.038
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.038
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.039
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.040
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.196
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.250
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.251
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.310
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.387
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:14.399
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:16.356
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:16.529
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:18.887
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:18.901
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:20.081
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:23.957
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:26.492
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:26.493
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:26.493
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:26.494
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:26.638
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:26.690
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:26.840
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:30.886
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:30.887
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:30.887
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:30.887
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:30.888
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:31.051
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:31.097
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:31.236
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:31.249
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:32.120
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.087
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.114
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.171
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.219
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.386
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.416
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.444
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.614
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.727
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.778
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.781
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:33.946
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.068
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.138
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.192
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.193
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.194
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.289
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.297
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.401
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.447
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.548
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.724
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.836
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:34.878
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.023
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.169
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.194
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.349
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.545
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.598
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.697
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.698
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.802
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:35.821
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.248
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.257
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.257
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.270
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.270
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.287
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.287
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.293
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.293
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.293
+!MESSAGE Validated 4. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.353
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.783
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:36.976
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.133
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.145
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.301
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.302
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.302
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.305
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.312
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.423
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.474
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:37.651
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.369
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.370
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.373
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.569
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.569
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.770
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.771
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.773
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.972
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:38.973
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:39.214
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:39.537
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:39.537
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:39.540
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:43.503
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:43.504
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:43.504
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:43.504
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:43.653
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:43.714
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:43.853
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:43.872
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:44.346
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:44.347
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:44.371
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:44.842
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:49.989
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:49.994
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.085
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.096
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.272
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.283
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.330
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.331
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.332
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.338
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.456
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.536
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.597
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.597
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.598
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.689
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.689
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.794
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:50.826
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.200
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.260
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.260
+!MESSAGE 3 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.278
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.278
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.300
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.301
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.307
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.307
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.307
+!MESSAGE Validated 4. Took 62 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.336
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.524
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.611
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.683
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.864
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.918
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.918
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:51.919
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.014
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.034
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.137
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.160
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.548
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.551
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.551
+!MESSAGE 2 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.567
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.568
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.588
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.588
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.594
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.594
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.595
+!MESSAGE Validated 4. Took 57 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.673
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.918
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:52.919
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:53.102
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:53.293
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:53.452
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:53.467
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:53.647
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:53.657
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:56.971
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.160
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.214
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.215
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.222
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.259
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.310
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.321
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.424
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.447
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.887
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.887
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.899
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.899
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.922
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.922
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.932
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.933
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.934
+!MESSAGE Validated 4. Took 59 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:57.964
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:58.250
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:58.250
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:58.413
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:58.598
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:58.765
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:02:58.781
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:10.384
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:10.385
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.212
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.221
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.231
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.410
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.469
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.470
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.495
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.513
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.694
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.842
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:11.978
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.040
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.096
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.097
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.116
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.190
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.193
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.295
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.311
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.756
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.756
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.768
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.768
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.785
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.786
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.791
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.791
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.791
+!MESSAGE Validated 4. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:12.843
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:13.268
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:13.459
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:13.618
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:13.632
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.040
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.215
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.271
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.272
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.302
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.313
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.365
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.390
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.493
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.512
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.955
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.955
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.968
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.968
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.986
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.986
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.991
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.991
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:20.992
+!MESSAGE Validated 4. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:21.024
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:21.474
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:21.662
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:21.810
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.001
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.053
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.053
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.097
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.106
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.152
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.161
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.214
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.237
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.673
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.674
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.685
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.685
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.707
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.708
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.717
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.717
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.717
+!MESSAGE Validated 4. Took 52 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:22.811
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:23.240
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:23.426
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:23.591
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:23.639
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:23.927
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:23.928
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:23.931
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:24.328
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:24.329
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:24.332
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:24.629
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:24.630
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:24.632
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:25.883
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:25.883
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:25.884
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:25.884
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:25.887
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:26.037
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:26.085
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:26.233
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:26.389
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:26.390
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:26.410
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:26.851
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:26.852
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:26.978
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:27.254
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:27.255
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:27.280
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:30.363
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:30.364
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:30.364
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:30.365
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:30.366
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:30.511
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:30.624
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:30.713
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:30.726
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:31.319
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:31.320
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:31.322
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:32.068
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:32.068
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:32.073
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:32.162
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:32.408
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:32.409
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.019
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.020
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.326
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.333
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.336
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.337
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.337
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.338
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.376
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.379
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.472
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.493
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.731
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.930
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.931
+!MESSAGE 1 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.940
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.940
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.957
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.957
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.962
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.962
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:34.963
+!MESSAGE Validated 4. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:35.019
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:35.293
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:35.293
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:35.445
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:35.636
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:35.796
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:35.805
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.359
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.362
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.467
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.469
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.642
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.664
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.666
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.845
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.877
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:36.951
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.062
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.116
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.117
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.162
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.213
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.228
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.317
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.336
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.774
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.774
+!MESSAGE 1 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.782
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.782
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.793
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.794
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.799
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.800
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.800
+!MESSAGE Validated 4. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:37.868
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:38.135
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:38.136
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:38.295
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:38.481
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:38.645
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:38.689
+!MESSAGE >> workspace/executeCommand vscode.java.test.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:38.901
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:38.902
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:41.557
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:41.559
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:41.750
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:41.799
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:41.800
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:41.843
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:41.854
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:41.904
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:41.906
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.011
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.420
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.421
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.432
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.432
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.451
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.451
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.502
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.502
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.502
+!MESSAGE Validated 4. Took 91 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.550
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.794
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.795
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:42.973
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:43.169
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:43.323
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.001
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.194
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.294
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.299
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.345
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.352
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.404
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.811
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.811
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.819
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.819
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.873
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.873
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.878
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.878
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:44.878
+!MESSAGE Validated 4. Took 74 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:45.002
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:45.470
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:45.660
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:45.820
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:46.584
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:46.714
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:46.725
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:46.730
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:46.851
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:46.859
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:46.866
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:46.882
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.048
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.100
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.100
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.153
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.198
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.200
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.239
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.391
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.521
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.537
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.720
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.823
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.852
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.881
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:47.946
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.049
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.074
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.149
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.271
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.325
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.326
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.371
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.420
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.424
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.442
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.573
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.699
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.764
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.859
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:48.861
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.047
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.101
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.102
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.153
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.198
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.209
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.312
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.717
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.769
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.769
+!MESSAGE 0 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.777
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.777
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.789
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.789
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.795
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.795
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.795
+!MESSAGE Validated 4. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:49.849
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:50.273
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:50.467
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:50.622
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:50.969
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:50.970
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:51.075
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:51.727
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:51.981
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:51.982
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:52.505
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:52.505
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:52.508
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:55.254
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:56.060
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:56.061
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:56.106
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:57.318
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:03:57.319
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:02.276
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:02.277
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:02.277
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:02.277
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:02.278
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:02.426
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:02.477
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:02.625
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:03.719
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:03.720
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:03.785
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:05.472
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:05.473
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:05.485
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:05.786
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:05.786
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:05.837
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:06.289
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:06.289
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:06.299
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.205
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.206
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.206
+!MESSAGE >> workspace/executeCommand vscode.java.test.findDirectTestChildrenForClass
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.206
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.207
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.208
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.357
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.413
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.414
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.462
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:10.555
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:14.538
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.299
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.301
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.423
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.482
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.534
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.535
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.571
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.580
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.612
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.735
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.785
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.911
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.933
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:26.983
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.167
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.219
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.220
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.256
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.318
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.334
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.438
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.844
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.897
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.897
+!MESSAGE 3 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.905
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.906
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.918
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.918
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.922
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.922
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.923
+!MESSAGE Validated 4. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:27.969
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:28.263
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:28.264
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:28.390
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:28.584
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:28.740
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:29.016
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:29.019
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:29.767
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:29.957
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.013
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.014
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.050
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.060
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.107
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.116
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.220
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.711
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.712
+!MESSAGE 2 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.722
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.722
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.735
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.735
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.739
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.740
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.740
+!MESSAGE Validated 4. Took 70 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:30.758
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.078
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.079
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.202
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.393
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.535
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.732
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.832
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.833
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.886
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.888
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:31.974
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.055
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.067
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.074
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.151
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.183
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.319
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.355
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.510
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.604
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.644
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.645
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.660
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.669
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:32.772
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.260
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.261
+!MESSAGE 1 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.268
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.268
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.280
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.280
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.284
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.285
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.285
+!MESSAGE Validated 4. Took 62 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.313
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.574
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.700
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:33.740
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.153
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.160
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.162
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.162
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.163
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.182
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.233
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.234
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.279
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.330
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.340
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.567
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.826
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.827
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.917
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:34.973
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.108
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.166
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.167
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.212
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.259
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.262
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.370
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.831
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.832
+!MESSAGE 1 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.840
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.841
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.888
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.888
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.892
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.893
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.893
+!MESSAGE Validated 4. Took 72 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:35.913
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:36.193
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:36.194
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:36.344
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:36.528
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:36.694
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:36.899
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:36.908
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:37.236
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:37.429
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:37.534
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:37.534
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:37.580
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:37.584
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:37.689
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.099
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.099
+!MESSAGE 1 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.107
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.107
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.118
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.118
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.123
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.123
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.123
+!MESSAGE Validated 4. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.233
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.661
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.852
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:38.910
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.101
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.156
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.157
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.168
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.205
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.357
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.462
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.519
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.523
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.548
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.628
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.776
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.810
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.811
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:39.965
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:40.158
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:40.242
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:40.263
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:40.309
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:40.314
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:40.418
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:40.485
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:40.503
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.006
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.335
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.340
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.342
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.342
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.344
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.344
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.345
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.345
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.346
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.346
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.609
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.796
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:41.864
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.211
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.221
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.221
+!MESSAGE 3 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.231
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.231
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.246
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.246
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.250
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.250
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.251
+!MESSAGE Validated 4. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.288
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.482
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.598
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.599
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.639
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:42.821
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.015
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.067
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.068
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.118
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.151
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.162
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.171
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.274
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.565
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.565
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.588
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.787
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.844
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.845
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.899
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.922
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.936
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:43.938
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.041
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.451
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.451
+!MESSAGE 1 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.458
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.458
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.472
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.472
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.477
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.477
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.477
+!MESSAGE Validated 4. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.588
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.755
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.755
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.769
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.815
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:44.816
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.015
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.205
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.255
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.256
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.366
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.558
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.559
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.758
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.759
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.764
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.917
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:45.918
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:48.318
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:48.319
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:48.321
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:48.651
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:48.651
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:48.654
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:50.422
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:50.423
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:50.426
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:53.756
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:53.953
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.053
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.086
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.101
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.105
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.208
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.524
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.528
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.690
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.783
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.784
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.784
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.785
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.809
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:54.924
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.123
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.175
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.176
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.242
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.286
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.287
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.287
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.377
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.471
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.472
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.595
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.597
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.702
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.765
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.816
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.818
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:55.988
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.044
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.045
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.119
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.138
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.167
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.269
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.678
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.731
+!MESSAGE begin problem for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.732
+!MESSAGE 1 problems reported for /DiscountTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.743
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.744
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.760
+!MESSAGE begin problem for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.761
+!MESSAGE 0 problems reported for /AppTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.768
+!MESSAGE begin problem for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.768
+!MESSAGE 0 problems reported for /Discount.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.770
+!MESSAGE Validated 4. Took 50 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:56.789
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:57.102
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:57.103
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:57.249
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:57.443
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:57.599
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestTypesAndMethods
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:58.325
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:58.326
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:58.514
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:58.706
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:58.864
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:04:59.049
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:05:19.015
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:09:46.931
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:09:47.935
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:09:47.935
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 02:09:47.949
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY java-debug 1 0 2021-10-31 02:09:48.765
+!MESSAGE Stopping com.microsoft.java.debug.plugin

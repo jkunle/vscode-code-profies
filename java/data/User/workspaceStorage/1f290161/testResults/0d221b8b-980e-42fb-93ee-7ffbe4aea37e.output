@@ -1,0 +1,32 @@
+%TESTC  8 v2
+%TSTTREE1,test_without_collaborators.MoneyIAETest,true,2,false,-1,test_without_collaborators.MoneyIAETest,,
+%TSTTREE2,constructorShouldThrowIAEForInvalidCurrency,true,2,false,-1,constructorShouldThrowIAEForInvalidCurrency,,
+%TSTTREE3,constructorShouldThrowIAEForInvalidCurrency(null) [0](test_without_collaborators.MoneyIAETest),false,1,false,-1,constructorShouldThrowIAEForInvalidCurrency(null) [0](test_without_collaborators.MoneyIAETest),,
+%TSTTREE4,constructorShouldThrowIAEForInvalidCurrency() [1](test_without_collaborators.MoneyIAETest),false,1,false,-1,constructorShouldThrowIAEForInvalidCurrency() [1](test_without_collaborators.MoneyIAETest),,
+%TSTTREE5,constructorShouldThrowIAEForInvalidAmount,true,3,false,-1,constructorShouldThrowIAEForInvalidAmount,,
+%TSTTREE6,constructorShouldThrowIAEForInvalidAmount(-12387) [0](test_without_collaborators.MoneyIAETest),false,1,false,-1,constructorShouldThrowIAEForInvalidAmount(-12387) [0](test_without_collaborators.MoneyIAETest),,
+%TSTTREE7,constructorShouldThrowIAEForInvalidAmount(-5) [1](test_without_collaborators.MoneyIAETest),false,1,false,-1,constructorShouldThrowIAEForInvalidAmount(-5) [1](test_without_collaborators.MoneyIAETest),,
+%TSTTREE8,constructorShouldThrowIAEForInvalidAmount(-1) [2](test_without_collaborators.MoneyIAETest),false,1,false,-1,constructorShouldThrowIAEForInvalidAmount(-1) [2](test_without_collaborators.MoneyIAETest),,
+%TSTTREE9,test_without_collaborators.MoneyTest,true,1,false,-1,test_without_collaborators.MoneyTest,,
+%TSTTREE10,constructorShouldSetAmountAndCurrency(test_without_collaborators.MoneyTest),false,1,false,-1,constructorShouldSetAmountAndCurrency(test_without_collaborators.MoneyTest),,
+%TSTTREE11,test_without_collaborators.MoneyParameterizedTest,true,1,false,-1,test_without_collaborators.MoneyParameterizedTest,,
+%TSTTREE12,constructorShouldSetAmountAndCurrency,true,2,false,-1,constructorShouldSetAmountAndCurrency,,
+%TSTTREE13,constructorShouldSetAmountAndCurrency(10\, USD) [0](test_without_collaborators.MoneyParameterizedTest),false,1,false,-1,constructorShouldSetAmountAndCurrency(10\, USD) [0](test_without_collaborators.MoneyParameterizedTest),,
+%TSTTREE14,constructorShouldSetAmountAndCurrency(20\, EUR) [1](test_without_collaborators.MoneyParameterizedTest),false,1,false,-1,constructorShouldSetAmountAndCurrency(20\, EUR) [1](test_without_collaborators.MoneyParameterizedTest),,
+%TESTS  3,constructorShouldThrowIAEForInvalidCurrency(null) [0](test_without_collaborators.MoneyIAETest)
+%TESTE  3,constructorShouldThrowIAEForInvalidCurrency(null) [0](test_without_collaborators.MoneyIAETest)
+%TESTS  4,constructorShouldThrowIAEForInvalidCurrency() [1](test_without_collaborators.MoneyIAETest)
+%TESTE  4,constructorShouldThrowIAEForInvalidCurrency() [1](test_without_collaborators.MoneyIAETest)
+%TESTS  6,constructorShouldThrowIAEForInvalidAmount(-12387) [0](test_without_collaborators.MoneyIAETest)
+%TESTE  6,constructorShouldThrowIAEForInvalidAmount(-12387) [0](test_without_collaborators.MoneyIAETest)
+%TESTS  7,constructorShouldThrowIAEForInvalidAmount(-5) [1](test_without_collaborators.MoneyIAETest)
+%TESTE  7,constructorShouldThrowIAEForInvalidAmount(-5) [1](test_without_collaborators.MoneyIAETest)
+%TESTS  8,constructorShouldThrowIAEForInvalidAmount(-1) [2](test_without_collaborators.MoneyIAETest)
+%TESTE  8,constructorShouldThrowIAEForInvalidAmount(-1) [2](test_without_collaborators.MoneyIAETest)
+%TESTS  10,constructorShouldSetAmountAndCurrency(test_without_collaborators.MoneyTest)
+%TESTE  10,constructorShouldSetAmountAndCurrency(test_without_collaborators.MoneyTest)
+%TESTS  13,constructorShouldSetAmountAndCurrency(10\, USD) [0](test_without_collaborators.MoneyParameterizedTest)
+%TESTE  13,constructorShouldSetAmountAndCurrency(10\, USD) [0](test_without_collaborators.MoneyParameterizedTest)
+%TESTS  14,constructorShouldSetAmountAndCurrency(20\, EUR) [1](test_without_collaborators.MoneyParameterizedTest)
+%TESTE  14,constructorShouldSetAmountAndCurrency(20\, EUR) [1](test_without_collaborators.MoneyParameterizedTest)
+%RUNTIME18

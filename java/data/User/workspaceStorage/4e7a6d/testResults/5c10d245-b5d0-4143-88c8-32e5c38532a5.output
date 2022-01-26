@@ -1,0 +1,6 @@
+%TESTC  1 v2
+%TSTTREE2,exercises.HashMapTest,true,1,false,1,HashMapTest,,[engine:junit-jupiter]/[class:exercises.HashMapTest]
+%TSTTREE3,putObjectRetrievedWithGet(exercises.HashMapTest),false,1,false,2,putObjectRetrievedWithGet(),,[engine:junit-jupiter]/[class:exercises.HashMapTest]/[method:putObjectRetrievedWithGet()]
+%TESTS  3,putObjectRetrievedWithGet(exercises.HashMapTest)
+%TESTE  3,putObjectRetrievedWithGet(exercises.HashMapTest)
+%RUNTIME128

@@ -1,0 +1,420 @@
+!SESSION 2021-10-31 18:01:13.854 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/1f290161/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:15.573
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:15.822
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:16.099
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:16.100
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:16.317
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:16.413
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:16.446
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.434
+!MESSAGE Workspace initialized in 1119ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.485
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.495
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.498
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.501
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.510
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.529
+!MESSAGE Creating the Java project ch3_1e04c8cf
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.544
+!MESSAGE Finished creating the Java project ch3_1e04c8cf
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.611
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.612
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:17.768
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:18.205
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:18.921
+!MESSAGE begin problem for /MoneyParameterizedTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:18.922
+!MESSAGE 0 problems reported for /MoneyParameterizedTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:18.931
+!MESSAGE Validated 1. Took 274 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:34.307
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:34.372
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:34.414
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:37.993
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:38.479
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:38.481
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:38.501
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:01:38.509
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-10-31 18:55:04.057 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/1f290161/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:06.180
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:06.373
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:06.566
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:06.567
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:06.744
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:07.614
+!MESSAGE Workspace initialized in 999ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:07.619
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:07.627
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:07.634
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:07.637
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:07.641
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:08.247
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:09.281
+!MESSAGE begin problem for /MoneyParameterizedTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:09.282
+!MESSAGE 0 problems reported for /MoneyParameterizedTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:09.288
+!MESSAGE Validated 1. Took 589 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:46.228
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:46.228
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 18:55:46.235
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-10-31 18:55:46.295
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2021-10-31 19:30:12.458 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/1f290161/redhat.java/ss_ws
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-10-31 19:30:15.372
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:17.271
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:17.634
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:17.704
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:17.707
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:17.790
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:18.519
+!MESSAGE Workspace initialized in 778ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:18.524
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:18.536
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:18.538
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:18.542
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:18.553
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:18.646
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:19.045
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:19.853
+!MESSAGE begin problem for /MoneyParameterizedTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:19.855
+!MESSAGE 0 problems reported for /MoneyParameterizedTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:19.863
+!MESSAGE Validated 1. Took 417 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:22.335
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:22.338
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:22.386
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 19:30:22.401
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY org.eclipse.core.resources 4 566 2021-10-31 19:30:22.487
+!MESSAGE Workspace was not properly initialized or has already shutdown.
+!SESSION 2021-10-31 22:45:01.672 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/1f290161/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:06.371
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:06.840
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:07.038
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:07.040
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:07.124
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:08.213
+!MESSAGE Workspace initialized in 1134ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:08.217
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:08.254
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:08.258
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:08.261
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:08.266
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:08.698
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:09.021
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:10.041
+!MESSAGE begin problem for /MoneyIAETest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:10.055
+!MESSAGE The value of the field MoneyIAETest.VALID_AMOUNT is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:10.056
+!MESSAGE The method getInvalidAmount() from the type MoneyIAETest is never used locally is of type UnusedPrivateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:10.059
+!MESSAGE 2 problems reported for /MoneyIAETest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:10.087
+!MESSAGE Validated 1. Took 664 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:12.598
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:12.609
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:12.726
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-31 22:45:12.772
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-11-08 00:04:15.013 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/1f290161/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:19.351
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:19.670
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:19.865
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:19.867
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:19.949
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:21.058
+!MESSAGE Workspace initialized in 1146ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:21.063
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:21.079
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:21.081
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:21.084
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:21.090
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:21.828
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:22.949
+!MESSAGE begin problem for /MoneyIAETest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:22.950
+!MESSAGE 0 problems reported for /MoneyIAETest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 00:04:22.955
+!MESSAGE Validated 1. Took 676 ms
+!SESSION 2021-11-08 21:41:13.328 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/1f290161/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:17.537
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:17.914
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:18.072
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:18.074
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:18.146
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:19.186
+!MESSAGE Workspace initialized in 1077ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:19.190
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:19.201
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:19.205
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:19.208
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:19.213
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:19.651
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:20.023
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:20.754
+!MESSAGE begin problem for /MoneyIAETest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:20.755
+!MESSAGE 0 problems reported for /MoneyIAETest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:20.760
+!MESSAGE Validated 1. Took 336 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:23.375
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:23.399
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:23.497
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-11-08 21:41:23.538
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

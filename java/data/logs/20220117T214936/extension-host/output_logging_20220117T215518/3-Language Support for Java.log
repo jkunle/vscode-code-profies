@@ -1,0 +1,311 @@
+[Error - 9:55:23 PM] Jan 17, 2022, 9:55:23 PM Failed to load extension bundles 
+Load bundle list
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:169)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:89)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:63)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:237)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Contains: Cannot extract bundle symbolicName or version /home/jkunle/code_profiles/java/extensions/vscjava.vscode-maven-0.21.2/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.21.2.jar
+java.nio.file.NoSuchFileException: /home/jkunle/code_profiles/java/extensions/vscjava.vscode-maven-0.21.2/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.21.2.jar
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:149)
+	at java.base/sun.nio.fs.LinuxFileSystemProvider.readAttributes(LinuxFileSystemProvider.java:99)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1764)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1259)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:733)
+	at java.base/java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:850)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:248)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:177)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:350)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:321)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:260)
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.getBundleInfo(BundleUtils.java:302)
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:116)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:89)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:63)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:237)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:04:10 PM] Jan 17, 2022, 10:04:10 PM Error while handling document change. URI: file:///home/jkunle/source/airport/src/main/java/airport/Airport.java
+End position lies outside document range
+org.eclipse.text.edits.MalformedTreeException: End position lies outside document range
+	at org.eclipse.text.edits.TextEditProcessor.checkIntegrityDo(TextEditProcessor.java:180)
+	at org.eclipse.text.edits.TextEdit.dispatchCheckIntegrity(TextEdit.java:746)
+	at org.eclipse.text.edits.TextEditProcessor.performEdits(TextEditProcessor.java:153)
+	at org.eclipse.text.edits.TextEdit.apply(TextEdit.java:714)
+	at org.eclipse.jdt.ls.core.internal.handlers.DocumentLifeCycleHandler.handleChanged(DocumentLifeCycleHandler.java:153)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$6.run(BaseDocumentLifeCycleHandler.java:309)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didChange(BaseDocumentLifeCycleHandler.java:306)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didChange(JDTLanguageServer.java:767)
+	at jdk.internal.reflect.GeneratedMethodAccessor43.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:04:14 PM] Jan 17, 2022, 10:04:14 PM Index out of bounds
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementAtSelection(JDTUtils.java:957)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:110)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:208)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:04:15 PM] Jan 17, 2022, 10:04:15 PM Index out of bounds
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementAtSelection(JDTUtils.java:957)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:110)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:208)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:09:10 PM] Jan 17, 2022, 10:09:10 PM Error computing hover
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.HoverInfoProvider.computeHover(HoverInfoProvider.java:97)
+	at org.eclipse.jdt.ls.core.internal.handlers.HoverHandler.computeHover(HoverHandler.java:57)
+	at org.eclipse.jdt.ls.core.internal.handlers.HoverHandler.hover(HoverHandler.java:43)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$7(JDTLanguageServer.java:562)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:12:14 PM] Jan 17, 2022, 10:12:14 PM Index out of bounds
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementAtSelection(JDTUtils.java:957)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:110)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:208)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:12:15 PM] Jan 17, 2022, 10:12:15 PM Index out of bounds
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementAtSelection(JDTUtils.java:957)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:110)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:208)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:17:59 PM] Jan 17, 2022, 10:17:59 PM Index out of bounds
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementAtSelection(JDTUtils.java:957)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:110)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:208)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:18:00 PM] Jan 17, 2022, 10:18:00 PM Index out of bounds
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementAtSelection(JDTUtils.java:957)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:110)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:208)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:18:00 PM] Jan 17, 2022, 10:18:00 PM Index out of bounds
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementAtSelection(JDTUtils.java:957)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:110)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:208)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:28:59 PM] Request textDocument/codeAction failed.
+  Message: Internal error.
+  Code: -32603 
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 746 out of bounds for length 738
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:645)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 746 out of bounds for length 738
+	at org.eclipse.jdt.internal.corext.refactoring.util.CommentAnalyzer.adjustSelection(CommentAnalyzer.java:81)
+	at org.eclipse.jdt.internal.corext.refactoring.util.CommentAnalyzer.check(CommentAnalyzer.java:43)
+	at org.eclipse.jdt.internal.corext.refactoring.util.CommentAnalyzer.perform(CommentAnalyzer.java:37)
+	at org.eclipse.jdt.internal.corext.refactoring.util.StatementAnalyzer.endVisit(StatementAnalyzer.java:125)
+	at org.eclipse.jdt.ls.core.internal.corext.refactoring.code.ExtractMethodAnalyzer.endVisit(ExtractMethodAnalyzer.java:841)
+	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:260)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.ls.core.internal.corext.refactoring.code.ExtractMethodRefactoring.internalCheckInitialConditions(ExtractMethodRefactoring.java:369)
+	at org.eclipse.jdt.ls.core.internal.corext.refactoring.code.ExtractMethodRefactoring.checkInferConditions(ExtractMethodRefactoring.java:345)
+	at org.eclipse.jdt.ls.core.internal.text.correction.RefactorProposalUtility.getExtractMethodProposal(RefactorProposalUtility.java:778)
+	at org.eclipse.jdt.ls.core.internal.text.correction.RefactorProposalUtility.getExtractMethodCommandProposal(RefactorProposalUtility.java:269)
+	at org.eclipse.jdt.ls.core.internal.corrections.RefactorProcessor.getExtractMethodProposal(RefactorProcessor.java:276)
+	at org.eclipse.jdt.ls.core.internal.corrections.RefactorProcessor.getProposals(RefactorProcessor.java:143)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:172)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	... 2 more
+
+[Error - 10:29:00 PM] Jan 17, 2022, 10:29:00 PM Index out of bounds
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementAtSelection(JDTUtils.java:957)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:110)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:208)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:29:00 PM] Jan 17, 2022, 10:29:00 PM Index out of bounds
+Index out of bounds
+Java Model Exception: Error in Java Model (code 980): Index out of bounds
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:162)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:389)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:382)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementsAtSelection(JDTUtils.java:976)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.findElementAtSelection(JDTUtils.java:957)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:110)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:208)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$15(JDTLanguageServer.java:649)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[Error - 10:30:59 PM] Jan 17, 2022, 10:30:59 PM Error occured while building workspace. Details: 
+ message: Duplicate modifier for the method main in type Airport; code: 67109221; resource: /home/jkunle/source/airport/src/main/java/airport/Airport.java; line: 4
+[Error - 10:31:53 PM] Jan 17, 2022, 10:31:53 PM Error occured while building workspace. Details: 
+ message: Duplicate modifier for the method main in type Airport; code: 67109221; resource: /home/jkunle/source/airport/src/main/java/airport/Airport.java; line: 4
+[Error - 10:32:58 PM] Jan 17, 2022, 10:32:58 PM Error occured while building workspace. Details: 
+ message: Duplicate modifier for the method main in type Airport; code: 67109221; resource: /home/jkunle/source/airport/src/main/java/airport/Airport.java; line: 4
+[Error - 10:33:21 PM] Jan 17, 2022, 10:33:21 PM Error occured while building workspace. Details: 
+ message: Duplicate modifier for the method main in type Airport; code: 67109221; resource: /home/jkunle/source/airport/src/main/java/airport/Airport.java; line: 4
+[Error - 10:33:23 PM] Jan 17, 2022, 10:33:23 PM Error occured while building workspace. Details: 
+ message: Duplicate modifier for the method main in type Airport; code: 67109221; resource: /home/jkunle/source/airport/src/main/java/airport/Airport.java; line: 4
+[Error - 10:33:41 PM] Jan 17, 2022, 10:33:41 PM Error occured while building workspace. Details: 
+ message: Duplicate modifier for the method main in type Airport; code: 67109221; resource: /home/jkunle/source/airport/src/main/java/airport/Airport.java; line: 4
+[Error - 10:34:35 PM] Request codeAction/resolve failed.
+  Message: Internal error.
+  Code: -32603 
+java.util.concurrent.CompletionException: java.lang.IllegalStateException: Invalid codeAction proposal
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:645)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.IllegalStateException: Invalid codeAction proposal
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionResolveHandler.resolve(CodeActionResolveHandler.java:41)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$16(JDTLanguageServer.java:666)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	... 2 more
+

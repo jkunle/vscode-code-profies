@@ -1,0 +1,73 @@
+Validating found git in: git
+Using git 2.20.1 from git
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/src/test/java/exercises' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/.classpath' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/.gitattributes' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/.gradle' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/.project' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/.settings' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/bin' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/build' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/gradle' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/gradlew' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/gradlew.bat' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/settings.gradle' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jkunle/source/practicalunittesting/ch3/exercises/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}

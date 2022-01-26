@@ -1,0 +1,6 @@
+%TESTC  1 v2
+%TSTTREE1,test_without_collaborators.MoneyTest,true,1,false,-1,test_without_collaborators.MoneyTest,,
+%TSTTREE2,constructorShouldSetAmountAndCurrency(test_without_collaborators.MoneyTest),false,1,false,-1,constructorShouldSetAmountAndCurrency(test_without_collaborators.MoneyTest),,
+%TESTS  2,constructorShouldSetAmountAndCurrency(test_without_collaborators.MoneyTest)
+%TESTE  2,constructorShouldSetAmountAndCurrency(test_without_collaborators.MoneyTest)
+%RUNTIME18

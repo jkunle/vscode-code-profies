@@ -1,0 +1,67 @@
+[2021-12-09 11:36:50.743] [exthost] [info] extension host started
+[2021-12-09 11:36:50.760] [exthost] [info] Lock '/home/jkunle/code_profiles/java/data/User/workspaceStorage/763452f3/vscode.lock': Lock acquired.
+[2021-12-09 11:36:50.932] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-12-09 11:36:50.932] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/debug-auto-launch/dist/extension
+[2021-12-09 11:36:51.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-12-09 11:36:51.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/git/dist/main
+[2021-12-09 11:36:51.187] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":true,"extensionId":{"value":"redhat.java","_lower":"redhat.java"},"activationEvent":"workspaceContains:build.gradle"}
+[2021-12-09 11:36:51.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension
+[2021-12-09 11:36:51.362] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-gradle {"startup":true,"extensionId":{"value":"vscjava.vscode-gradle","_lower":"vscjava.vscode-gradle"},"activationEvent":"workspaceContains:build.gradle"}
+[2021-12-09 11:36:51.362] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-gradle-3.8.1/dist/index.js
+[2021-12-09 11:36:51.529] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"extensionId":{"value":"vscjava.vscode-java-dependency","_lower":"vscjava.vscode-java-dependency"},"activationEvent":"workspaceContains:build.gradle"}
+[2021-12-09 11:36:51.529] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-dependency-0.18.8/main.js
+[2021-12-09 11:36:51.693] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":true,"extensionId":{"value":"vscjava.vscode-java-pack","_lower":"vscjava.vscode-java-pack"},"activationEvent":"workspaceContains:build.gradle"}
+[2021-12-09 11:36:51.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-pack-0.9.0/out/extension
+[2021-12-09 11:36:51.844] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":true,"extensionId":{"value":"vscjava.vscode-java-test","_lower":"vscjava.vscode-java-test"},"activationEvent":"workspaceContains:build.gradle"}
+[2021-12-09 11:36:51.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-debug-0.35.0/dist/extension
+[2021-12-09 11:36:52.263] [exthost] [info] Extension 'vscjava.vscode-java-debug' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2021-12-09 11:36:52.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-12-09 11:36:52.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/github/dist/extension.js
+[2021-12-09 11:36:52.660] [exthost] [info] ExtensionService#_doActivateExtension richardwillis.vscode-gradle {"startup":true,"extensionId":{"value":"richardwillis.vscode-gradle","_lower":"richardwillis.vscode-gradle"},"activationEvent":"workspaceContains:**/gradlew,**/gradlew.bat"}
+[2021-12-09 11:36:52.660] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/richardwillis.vscode-gradle-0.0.0/dist/index.js
+[2021-12-09 11:36:52.663] [exthost] [error] Activating extension richardwillis.vscode-gradle failed due to an error:
+[2021-12-09 11:36:52.663] [exthost] [error] Error: Cannot find module '/home/jkunle/code_profiles/java/extensions/richardwillis.vscode-gradle-0.0.0/dist/index.js'
+Require stack:
+- /home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/loader.js
+- /home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/bootstrap-amd.js
+- /home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+	at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+	at Function.u._load (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28329)
+	at Function.E._load (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24906)
+	at Function.o._load (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:961:19)
+	at Module.require (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/git/dist/main.js:2:515806)
+	at require (internal/modules/cjs/helpers.js:92:18)
+	at Function.t [as __$__nodeRequire] (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/loader.js:5:101)
+	at p._loadCommonJSModule (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:26315)
+	at p._doActivateExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12594)
+	at p._activateExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11695)
+	at Object.actualActivateExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9236)
+	at c._activateExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:87973)
+	at /home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:87655
+	at Array.map (<anonymous>)
+	at c._activateExtensions (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:87643)
+	at c.activateById (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:85273)
+	at p._activateById (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10238)
+	at p._handleWorkspaceContainsEagerExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:16650)
+	at processTicksAndRejections (internal/process/task_queues.js:95:5)
+	at async Promise.all (index 86)
+	at async Promise.all (index 1)
+[2021-12-09 11:36:52.881] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-12-09 11:36:52.881] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/ms-vscode.js-debug/src/extension.js
+[2021-12-09 11:36:54.190] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-12-09 11:36:54.302] [exthost] [info] Extension 'redhat.java' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2021-12-09 11:36:54.719] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-12-09 11:37:01.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-12-09 11:37:01.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/emmet/dist/node/emmetNodeMain
+[2021-12-09 11:37:01.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-12-09 11:37:01.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/merge-conflict/dist/mergeConflictMain
+[2021-12-09 11:37:02.854] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"extensionId":{"value":"vscjava.vscode-java-test","_lower":"vscjava.vscode-java-test"},"activationEvent":"workspaceContains:build.gradle"}
+[2021-12-09 11:37:02.854] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/main.js
+[2021-12-09 11:37:03.324] [exthost] [info] eager extensions activated
+[2021-12-09 11:37:16.971] [exthost] [error] Error: Internal error.
+	at /home/jkunle/code_profiles/java/extensions/vscjava.vscode-gradle-3.8.1/dist/index.js:1:871787
+	at /home/jkunle/code_profiles/java/extensions/vscjava.vscode-gradle-3.8.1/dist/index.js:1:872081
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/vscjava.vscode-gradle-3.8.1/dist/index.js:1:872444)
+	at processImmediate (internal/timers.js:464:21) gradle.setScriptClasspaths

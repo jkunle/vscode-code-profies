@@ -1,0 +1,19 @@
+%TESTC  0 v2
+%TSTTREE2,exercises.StringReversalTest,true,1,false,1,StringReversalTest,,[engine:junit-jupiter]/[class:exercises.StringReversalTest]
+%TSTTREE3,reversesAGivenString(exercises.StringReversalTest),true,0,false,2,reversesAGivenString(String\, String),java.lang.String\, java.lang.String,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[test-template:reversesAGivenString(java.lang.String\, java.lang.String)]
+%TSTTREE4,reversesAGivenString(exercises.StringReversalTest),false,1,true,3,[1] a\, a,java.lang.String\, java.lang.String,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[test-template:reversesAGivenString(java.lang.String\, java.lang.String)]/[test-template-invocation:#1]
+%TESTS  4,reversesAGivenString(exercises.StringReversalTest)
+%TESTE  4,reversesAGivenString(exercises.StringReversalTest)
+%TSTTREE5,reversesAGivenString(exercises.StringReversalTest),false,1,true,3,[2] ab\, ba,java.lang.String\, java.lang.String,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[test-template:reversesAGivenString(java.lang.String\, java.lang.String)]/[test-template-invocation:#2]
+%TESTS  5,reversesAGivenString(exercises.StringReversalTest)
+%TESTE  5,reversesAGivenString(exercises.StringReversalTest)
+%TSTTREE6,reversesAGivenString(exercises.StringReversalTest),false,1,true,3,[3] aba\, aba,java.lang.String\, java.lang.String,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[test-template:reversesAGivenString(java.lang.String\, java.lang.String)]/[test-template-invocation:#3]
+%TESTS  6,reversesAGivenString(exercises.StringReversalTest)
+%TESTE  6,reversesAGivenString(exercises.StringReversalTest)
+%TSTTREE7,reversesAGivenString(exercises.StringReversalTest),false,1,true,3,[4] ds_42<^\, ^<24_sd,java.lang.String\, java.lang.String,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[test-template:reversesAGivenString(java.lang.String\, java.lang.String)]/[test-template-invocation:#4]
+%TESTS  7,reversesAGivenString(exercises.StringReversalTest)
+%TESTE  7,reversesAGivenString(exercises.StringReversalTest)
+%TSTTREE8,reversesAGivenString(exercises.StringReversalTest),false,1,true,3,[5]  2\, 2 ,java.lang.String\, java.lang.String,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[test-template:reversesAGivenString(java.lang.String\, java.lang.String)]/[test-template-invocation:#5]
+%TESTS  8,reversesAGivenString(exercises.StringReversalTest)
+%TESTE  8,reversesAGivenString(exercises.StringReversalTest)
+%RUNTIME189

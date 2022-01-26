@@ -1,0 +1,6 @@
+%TESTC  1 v2
+%TSTTREE2,exercises.StringReversalTest,true,1,false,1,StringReversalTest,,[engine:junit-jupiter]/[class:exercises.StringReversalTest]
+%TSTTREE3,reverseEmptyStringReturnsEmptyString(exercises.StringReversalTest),false,1,false,2,reverseEmptyStringReturnsEmptyString(),,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[method:reverseEmptyStringReturnsEmptyString()]
+%TESTS  3,reverseEmptyStringReturnsEmptyString(exercises.StringReversalTest)
+%TESTE  3,reverseEmptyStringReturnsEmptyString(exercises.StringReversalTest)
+%RUNTIME127

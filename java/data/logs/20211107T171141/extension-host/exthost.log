@@ -1,0 +1,433 @@
+[2021-11-07 17:11:48.250] [exthost] [info] extension host started
+[2021-11-07 17:11:48.263] [exthost] [info] Lock '/home/jkunle/code_profiles/java/data/User/workspaceStorage/4e7a6d/vscode.lock': Lock acquired.
+[2021-11-07 17:11:48.562] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"extensionId":{"value":"vscjava.vscode-java-test","_lower":"vscjava.vscode-java-test"},"activationEvent":"onLanguage:java"}
+[2021-11-07 17:11:48.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension
+[2021-11-07 17:11:48.736] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":false,"extensionId":{"value":"vscjava.vscode-java-test","_lower":"vscjava.vscode-java-test"},"activationEvent":"onLanguage:java"}
+[2021-11-07 17:11:48.736] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-debug-0.35.0/dist/extension
+[2021-11-07 17:11:48.821] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":false,"extensionId":{"value":"vscjava.vscode-java-dependency","_lower":"vscjava.vscode-java-dependency"},"activationEvent":"onLanguage:java"}
+[2021-11-07 17:11:48.821] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-dependency-0.18.8/main.js
+[2021-11-07 17:11:48.980] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":false,"extensionId":{"value":"vscjava.vscode-java-pack","_lower":"vscjava.vscode-java-pack"},"activationEvent":"onLanguage:java"}
+[2021-11-07 17:11:48.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-pack-0.9.0/out/extension
+[2021-11-07 17:11:49.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-11-07 17:11:49.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/debug-auto-launch/dist/extension
+[2021-11-07 17:11:49.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-11-07 17:11:49.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/git/dist/main
+[2021-11-07 17:11:49.264] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-gradle {"startup":true,"extensionId":{"value":"vscjava.vscode-gradle","_lower":"vscjava.vscode-gradle"},"activationEvent":"workspaceContains:build.gradle"}
+[2021-11-07 17:11:49.264] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-gradle-3.8.1/dist/index.js
+[2021-11-07 17:11:49.480] [exthost] [info] Extension 'vscjava.vscode-java-debug' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2021-11-07 17:11:49.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-11-07 17:11:49.621] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/github/dist/extension.js
+[2021-11-07 17:11:50.114] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-11-07 17:11:50.114] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-07 17:11:50.452] [exthost] [info] ExtensionService#_doActivateExtension richardwillis.vscode-gradle {"startup":true,"extensionId":{"value":"richardwillis.vscode-gradle","_lower":"richardwillis.vscode-gradle"},"activationEvent":"workspaceContains:**/gradlew,**/gradlew.bat"}
+[2021-11-07 17:11:50.452] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/richardwillis.vscode-gradle-0.0.0/dist/index.js
+[2021-11-07 17:11:50.454] [exthost] [error] Activating extension richardwillis.vscode-gradle failed due to an error:
+[2021-11-07 17:11:50.454] [exthost] [error] Error: Cannot find module '/home/jkunle/code_profiles/java/extensions/richardwillis.vscode-gradle-0.0.0/dist/index.js'
+Require stack:
+- /home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/loader.js
+- /home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/bootstrap-amd.js
+- /home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+	at Function.Module._load (internal/modules/cjs/loader.js:745:27)
+	at Function.u._load (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28329)
+	at Function.E._load (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24906)
+	at Function.o._load (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:961:19)
+	at require (internal/modules/cjs/helpers.js:92:18)
+	at Function.t [as __$__nodeRequire] (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/loader.js:5:101)
+	at p._loadCommonJSModule (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:26315)
+	at p._doActivateExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12594)
+	at p._activateExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11695)
+	at Object.actualActivateExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9236)
+	at c._activateExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:87973)
+	at /home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:87655
+	at Array.map (<anonymous>)
+	at c._activateExtensions (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:87643)
+	at c.activateById (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:85273)
+	at p._activateById (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10238)
+	at p._handleWorkspaceContainsEagerExtension (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:16650)
+	at processTicksAndRejections (internal/process/task_queues.js:95:5)
+	at async Promise.all (index 85)
+	at async Promise.all (index 1)
+[2021-11-07 17:11:50.605] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-11-07 17:11:50.751] [exthost] [info] Extension 'redhat.java' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2021-11-07 17:11:51.172] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-11-07 17:11:59.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-11-07 17:11:59.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-07 17:11:59.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-11-07 17:11:59.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-07 17:12:37.276] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:12:37.278] [exthost] [error] Error: The request (id: 5, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:17:29.498] [exthost] [error] onWillSaveTextDocument-listener from extension 'redhat.java' threw ERROR
+[2021-11-07 17:17:29.498] [exthost] [error] Error: timeout
+	at Timeout._onTimeout (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:31058)
+	at listOnTimeout (internal/timers.js:557:17)
+	at processTimers (internal/timers.js:500:7)
+[2021-11-07 17:17:33.677] [exthost] [error] onWillSaveTextDocument-listener from extension 'redhat.java' threw ERROR
+[2021-11-07 17:17:33.678] [exthost] [error] Error: timeout
+	at Timeout._onTimeout (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:31058)
+	at listOnTimeout (internal/timers.js:557:17)
+	at processTimers (internal/timers.js:500:7)
+[2021-11-07 17:17:37.509] [exthost] [error] onWillSaveTextDocument-listener from extension 'redhat.java' threw ERROR
+[2021-11-07 17:17:37.509] [exthost] [error] Error: timeout
+	at Timeout._onTimeout (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:31058)
+	at listOnTimeout (internal/timers.js:557:17)
+	at processTimers (internal/timers.js:500:7)
+[2021-11-07 17:17:43.741] [exthost] [error] onWillSaveTextDocument-listener from extension 'redhat.java' threw ERROR
+[2021-11-07 17:17:43.742] [exthost] [error] Error: timeout
+	at Timeout._onTimeout (/home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:31058)
+	at listOnTimeout (internal/timers.js:557:17)
+	at processTimers (internal/timers.js:500:7)
+[2021-11-07 17:18:50.488] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:18:50.488] [exthost] [error] Error: The request (id: 157, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:19:26.638] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":false,"extensionId":{"value":"vscjava.vscode-java-test","_lower":"vscjava.vscode-java-test"},"activationEvent":"onLanguage:java"}
+[2021-11-07 17:19:26.638] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/java/extensions/vscjava.vscode-java-test-0.32.0/main.js
+[2021-11-07 17:19:27.171] [exthost] [info] eager extensions activated
+[2021-11-07 17:20:07.023] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:20:07.023] [exthost] [error] Error: The request (id: 35, method: 'textDocument/hover') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:20:14.951] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:20:16.296] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:20:16.860] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:20:16.860] [exthost] [error] Error: The request (id: 59, method: 'textDocument/hover') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:20:31.515] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:20:31.515] [exthost] [error] Error: Internal error.
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:20:38.378] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:20:38.378] [exthost] [error] Error: The request (id: 86, method: 'textDocument/hover') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:20:59.442] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:00.791] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:26.480] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:21:26.480] [exthost] [error] Error: The request (id: 139, method: 'textDocument/hover') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:21:34.814] [exthost] [error] Error: The request (id: 146, method: 'workspace/executeCommand') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:34.967] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:35.469] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:35.921] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:36.883] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:37.793] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:39.179] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:40.242] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:41.576] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:43.301] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:44.722] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:47.188] [exthost] [error] Error: The request (id: 203, method: 'workspace/executeCommand') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:47.381] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:49.304] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:49.956] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:52.803] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:53.637] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:55.376] [exthost] [error] Error: The request (id: 256, method: 'workspace/executeCommand') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:55.513] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:57.147] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:21:58.958] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:25:44.679] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:25:46.056] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:26:07.494] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:28:24.305] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:28:24.440] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:28:29.187] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:28:29.187] [exthost] [error] Error: The request (id: 356, method: 'textDocument/hover') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:29:07.469] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:29:07.469] [exthost] [error] Error: The request (id: 362, method: 'textDocument/hover') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:29:13.207] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:13.209] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:18.913] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:29:18.914] [exthost] [error] Error: The request (id: 376, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:29:19.271] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:22.529] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:39.431] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:29:39.431] [exthost] [error] Error: The request (id: 407, method: 'textDocument/hover') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:29:43.551] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:44.920] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:46.348] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:47.474] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:48.176] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:48.990] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:50.373] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:53.106] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:54.818] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:56.219] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:58.159] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:29:59.510] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:30:02.751] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:30:04.185] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:30:05.519] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:30:12.480] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:30:13.889] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:30:37.807] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:30:37.807] [exthost] [error] Error: The request (id: 566, method: 'textDocument/hover') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:30:45.743] [exthost] [error] Error: The request (id: 585, method: 'workspace/executeCommand') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:30:45.784] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:30:45.784] [exthost] [error] Error: The request (id: 586, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:30:53.412] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 17:30:53.412] [exthost] [error] Error: The request (id: 612, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21)
+[2021-11-07 17:30:53.769] [exthost] [error] Error: Pb(324) The type org.apiguardian.api.API$Status cannot be resolved. It is indirectly referenced from required .class files
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/jkunle/code_profiles/java/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:464:21) java.execute.workspaceCommand
+[2021-11-07 17:31:28.030] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-07 17:31:28.031] [exthost] [info] Lock '/home/jkunle/code_profiles/java/data/User/workspaceStorage/4e7a6d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-07 17:31:29.073] [exthost] [info] exiting with code 0

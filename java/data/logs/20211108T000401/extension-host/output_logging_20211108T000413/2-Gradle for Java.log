@@ -1,0 +1,3 @@
+[info] [gradle-server] Server started, listening on 46763
+[info] Gradle client connected to server
+[info] [gradle-server] Shutting down gRPC server since JVM is shutting down

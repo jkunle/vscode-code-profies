@@ -1,0 +1,142 @@
+[info] [gradle-server] Server started, listening on 36511
+[info] Gradle client connected to server
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 543ms
+[info] Found 29 tasks
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.0/userguide/command_line_interface.html#sec:command_line_warnings
+
+CONFIGURE SUCCESSFUL in 183ms
+[info] Found 29 tasks
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.0/userguide/command_line_interface.html#sec:command_line_warnings
+
+CONFIGURE SUCCESSFUL in 148ms
+[info] Found 29 tasks
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.0/userguide/command_line_interface.html#sec:command_line_warnings
+
+CONFIGURE SUCCESSFUL in 157ms
+[info] Found 29 tasks
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.0/userguide/command_line_interface.html#sec:command_line_warnings
+
+CONFIGURE SUCCESSFUL in 120ms
+[info] Found 29 tasks
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'exercises'.
+> Could not find method timplementation() for arguments [org.junit.jupiter:junit-jupiter-params:5.8.1] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 152ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/practicalunittesting/ch3/exercises: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'exercises'.
+> Could not find method testimplementation() for arguments [org.junit.jupiter:junit-jupiter-params:5.8.1] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 124ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/practicalunittesting/ch3/exercises: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'exercises'.
+> Could not find method testmplementation() for arguments [org.junit.jupiter:junit-jupiter-params:5.8.1] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 211ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/practicalunittesting/ch3/exercises: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/6.0/userguide/command_line_interface.html#sec:command_line_warnings
+
+CONFIGURE SUCCESSFUL in 133ms
+[info] Found 29 tasks
+[info] Build file changed: /home/jkunle/source/practicalunittesting/ch3/exercises/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 101ms
+[info] Found 29 tasks
+[info] [gradle-server] Shutting down gRPC server since JVM is shutting down
+[info] [gradle-server] Server shut down

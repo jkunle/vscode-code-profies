@@ -1,0 +1,153 @@
+!SESSION 2022-01-17 21:55:19.294 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/4bdd540/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:22.253
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:22.664
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:22.833
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:22.834
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:23.034
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:23.088
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:23.146
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:23.935
+!MESSAGE Workspace initialized in 905ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:24.011
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:24.021
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:24.023
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:24.028
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:42.857
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:42.862
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:42.887
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 21:55:42.901
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-01-17 22:37:47.781 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/4bdd540/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:49.883
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:50.090
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:50.302
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:50.304
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:50.471
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:51.602
+!MESSAGE Workspace initialized in 1258ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:51.608
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:51.635
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:51.637
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:51.640
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:54.931
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:54.938
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:55.046
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-17 22:37:55.078
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY org.eclipse.core.resources 4 566 2022-01-17 22:37:55.198
+!MESSAGE Workspace was not properly initialized or has already shutdown.
+!SESSION 2022-01-19 22:51:57.373 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/jkunle/code_profiles/java/data/User/workspaceStorage/4bdd540/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:00.583
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:01.114
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:01.464
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:01.468
+!MESSAGE Initializing Java Language Server 1.5.0.202110190407
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:01.716
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:03.195
+!MESSAGE Workspace initialized in 1640ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:03.202
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:03.234
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:03.244
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:03.268
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:07.587
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:07.615
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:07.669
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-19 22:52:07.687
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

@@ -1,0 +1,12 @@
+[2021-09-30 12:39:35.637] [remoteagent] [info] Installing extension: rebornix.ruby
+[2021-09-30 12:39:37.154] [remoteagent] [info] Downloaded extension: rebornix.ruby /home/jkunle/code_profiles/ruby/data/CachedExtensionVSIXs/rebornix.ruby-0.25.0
+[2021-09-30 12:39:37.251] [remoteagent] [info] Extracted extension to /home/jkunle/code_profiles/ruby/extensions/.5e91cdec-c2dc-4bb5-b345-c7affbd49075: rebornix.ruby
+[2021-09-30 12:39:37.264] [remoteagent] [info] Renamed to /home/jkunle/code_profiles/ruby/extensions/rebornix.ruby-0.25.0
+[2021-09-30 12:39:37.266] [remoteagent] [info] Installation completed. rebornix.ruby
+[2021-09-30 12:39:37.271] [remoteagent] [info] Extensions installed successfully: rebornix.ruby
+[2021-09-30 12:39:59.215] [remoteagent] [info] Installing extension: wingrunr21.vscode-ruby
+[2021-09-30 12:39:59.380] [remoteagent] [info] Downloaded extension: wingrunr21.vscode-ruby /home/jkunle/code_profiles/ruby/data/CachedExtensionVSIXs/wingrunr21.vscode-ruby-0.28.0
+[2021-09-30 12:39:59.410] [remoteagent] [info] Extracted extension to /home/jkunle/code_profiles/ruby/extensions/.d818b8dc-91d8-4e7b-852b-192b06ca61c3: wingrunr21.vscode-ruby
+[2021-09-30 12:39:59.417] [remoteagent] [info] Renamed to /home/jkunle/code_profiles/ruby/extensions/wingrunr21.vscode-ruby-0.28.0
+[2021-09-30 12:39:59.418] [remoteagent] [info] Installation completed. wingrunr21.vscode-ruby
+[2021-09-30 12:39:59.423] [remoteagent] [info] Extensions installed successfully: wingrunr21.vscode-ruby

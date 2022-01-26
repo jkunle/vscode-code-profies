@@ -1,0 +1,10 @@
+%TESTC  2 v2
+%TSTTREE2,exercises.StringReversalTest,true,1,false,1,StringReversalTest,,[engine:junit-jupiter]/[class:exercises.StringReversalTest]
+%TSTTREE3,reverseOnNullThrowsIAE(exercises.StringReversalTest),false,1,false,2,reverseOnNullThrowsIAE(),,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[method:reverseOnNullThrowsIAE()]
+%TSTTREE4,exercises.LibraryTest,true,1,false,1,LibraryTest,,[engine:junit-jupiter]/[class:exercises.LibraryTest]
+%TSTTREE5,testSomeLibraryMethod(exercises.LibraryTest),false,1,false,4,testSomeLibraryMethod(),,[engine:junit-jupiter]/[class:exercises.LibraryTest]/[method:testSomeLibraryMethod()]
+%TESTS  3,reverseOnNullThrowsIAE(exercises.StringReversalTest)
+%TESTE  3,reverseOnNullThrowsIAE(exercises.StringReversalTest)
+%TESTS  5,testSomeLibraryMethod(exercises.LibraryTest)
+%TESTE  5,testSomeLibraryMethod(exercises.LibraryTest)
+%RUNTIME142

@@ -1,0 +1,1711 @@
+Validating found git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/jkunle/source/mocking-node-with-sinon
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :file.management.spy.spec.js
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git cat-file -s b5da6e8e7faebd9442889d203edd9dbea140a526
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git cat-file -s bd80ffe93e0e4f38612c0d5c154a054448582a95
+> git show --textconv :file.management.spy.spec.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git add -A -- /home/jkunle/source/mocking-node-with-sinon/package-lock.json /home/jkunle/source/mocking-node-with-sinon/data/test.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git cat-file -s bd80ffe93e0e4f38612c0d5c154a054448582a95
+> git show --textconv :file.management.spy.spec.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git cat-file -s bd80ffe93e0e4f38612c0d5c154a054448582a95
+> git show --textconv :file.management.spy.spec.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git cat-file -s bd80ffe93e0e4f38612c0d5c154a054448582a95
+> git show --textconv :file.management.spy.spec.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git cat-file -s bd80ffe93e0e4f38612c0d5c154a054448582a95
+> git show --textconv :file.management.spy.spec.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git show --textconv :file.management.spy.spec.js
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git show --textconv :file.management.spy.spec.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/start refs/remotes/start
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/start', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git cat-file -s 29555a0673d14d2368acf02d4d469979a561d201
+> git show --textconv :file.management.spy.spec.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git check-ignore -v -z --stdin
+> git show --textconv :file.management.stub.spec.js
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.stub.spec.js
+> git cat-file -s e2d775aa068a05c220ec4b1efd867807a57960e1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/package.json
+> git cat-file -s 5cc1dc3ebad40e0efc2fe3acfcd72ecf81a8ae80
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git show --textconv :file.management.stub.spec.js
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.stub.spec.js
+> git cat-file -s e2d775aa068a05c220ec4b1efd867807a57960e1
+> git show --textconv :file.management.spy.spec.js
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.spy.spec.js
+> git cat-file -s 29555a0673d14d2368acf02d4d469979a561d201
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git show --textconv :file.management.stub.spec.js
+> git ls-files --stage -- /home/jkunle/source/mocking-node-with-sinon/file.management.stub.spec.js
+> git cat-file -s e2d775aa068a05c220ec4b1efd867807a57960e1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/spying-on-functions refs/remotes/spying-on-functions
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/mocking-node-with-sinon/.git/refs/remotes/origin/spying-on-functions', is most likely packed.
+> git config --get commit.template

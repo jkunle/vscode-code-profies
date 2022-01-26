@@ -1,0 +1,1719 @@
+[info] [gradle-server] Server started, listening on 37909
+[info] Gradle client connected to server
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 370ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 150ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 75ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 179ms
+[info] Found 35 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 87ms
+[info] Found 35 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 100ms
+[info] Found 35 tasks
+[info] Stopping Daemon(s)
+2 Daemons stopped
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 619ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not find method implementation() for arguments [] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 167ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not find method implementation() for arguments [] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 149ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not get unknown property 'implementation' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 125ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation '' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 278ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation '' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 84ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'or' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 162ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 118ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.j' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 221ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 86ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 73ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.j' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 108ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.ju' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 138ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.ju' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 53ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.jun' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 164ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.junit' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 143ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.junit.' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 152ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.junit.ju' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 103ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.junit.ju' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 61ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.junit.jup' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 76ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.junit.jup' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 54ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 137ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 91ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 53.
+     g.junit.jupiter:junit-jupiterr
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 37ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 53.
+     g.junit.jupiter:junit-jupiterr
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 29ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 52.
+     rg.junit.jupiter:junit-jupiter
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 26ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 52.
+     rg.junit.jupiter:junit-jupiter
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 36ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 53.
+     g.junit.jupiter:junit-jupiter:
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 76ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 39.
+         implementation 'org.junit.jupiter:
+                                           ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 31ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 39.
+         implementation 'org.junit.jupiter:
+                                           ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 32ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 32.
+         implementation 'org.junit.j
+                                    ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 28ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 32.
+         implementation 'org.junit.j
+                                    ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 40ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 38.
+         implementation 'org.junit.jupiter
+                                          ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 33ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 38.
+         implementation 'org.junit.jupiter
+                                          ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 39ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 52.
+     rg.junit.jupiter:junit-jupiter
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 28ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 52.
+     rg.junit.jupiter:junit-jupiter
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 27ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 31.
+         implementation 'org.junit.
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 29ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 31.
+         implementation 'org.junit.
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 31ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 56.
+     unit.jupiter:junit-jupiter-api
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 31ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 26: expecting ''', found '\n' @ line 26, column 56.
+     unit.jupiter:junit-jupiter-api
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 31ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 116ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 98ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not get unknown property 'im' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 86ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not get unknown property 'im' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 86ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not find method implementation() for arguments [] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 79ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not find method implementation() for arguments [] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 39ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not get unknown property 'implementation' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 129ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation '' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 102ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: [error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation '' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 65ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 101ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 42ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.ju' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 98ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.ju' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 52ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.juni' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 112ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Supplied String module notation 'org.junit.' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 135ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 79ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 64ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 80ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 99ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not get unknown property 'implementation' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 40ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 26
+
+* What went wrong:
+A problem occurred evaluating root project 'airport'.
+> Could not get unknown property 'implementation' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 33ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 88ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 27: expecting '}', found ':' @ line 27, column 43.
+     ementation ''org.junit.jupiter:junit-jup
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 26ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 27: expecting '}', found ':' @ line 27, column 43.
+     ementation ''org.junit.jupiter:junit-jup
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 27ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 27: expecting '}', found ':' @ line 27, column 43.
+     ementation ''org.junit.jupiter:junit-jup
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 24ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 27: expecting '}', found ':' @ line 27, column 43.
+     ementation ''org.junit.jupiter:junit-jup
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 26ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 27: expecting '}', found ':' @ line 27, column 43.
+     ementation ''org.junit.jupiter:junit-jup
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 68ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 27
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 27: expecting '}', found ':' @ line 27, column 43.
+     ementation ''org.junit.jupiter:junit-jup
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 43ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 113ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 30
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 30: expecting ''', found '\n' @ line 30, column 61.
+     .jupiter:junit-jupiter-engine:
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 23ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 30
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 30: expecting ''', found '\n' @ line 30, column 61.
+     .jupiter:junit-jupiter-engine:
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 35ms
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 30
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 30: expecting ''', found '\n' @ line 30, column 60.
+     t.jupiter:junit-jupiter-engine
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 23ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[error] FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/home/jkunle/source/airport/build.gradle' line: 30
+
+* What went wrong:
+Could not compile build file '/home/jkunle/source/airport/build.gradle'.
+> startup failed:
+  build file '/home/jkunle/source/airport/build.gradle': 30: expecting ''', found '\n' @ line 30, column 60.
+     t.jupiter:junit-jupiter-engine
+                                   ^
+  
+  1 error
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+CONFIGURE FAILED in 28ms
+[error] Error getting build for /home/jkunle/source/airport: Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Found 0 tasks
+[error] [gradle-server] Could not fetch model of type 'GradleProject' using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 53ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 75ms
+[info] Found 35 tasks
+[info] Build file changed: /home/jkunle/source/airport/build.gradle
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 64ms
+[info] Found 35 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 53ms
+[info] Found 35 tasks
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 42ms
+[info] Found 35 tasks
+[info] [gradle-server] Shutting down gRPC server since JVM is shutting down
+[info] [gradle-server] Server shut down

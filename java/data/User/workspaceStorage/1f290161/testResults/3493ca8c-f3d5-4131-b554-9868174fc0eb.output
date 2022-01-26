@@ -1,0 +1,17 @@
+%TESTC  1 v2
+%TSTTREE1,initializationError(org.junit.runner.manipulation.Filter),false,1,false,-1,initializationError(org.junit.runner.manipulation.Filter),,
+%TESTS  1,initializationError(org.junit.runner.manipulation.Filter)
+%ERROR  1,initializationError(org.junit.runner.manipulation.Filter)
+%TRACES 
+java.lang.Exception: No tests found matching [{ExactMatcher:fDisplayName=constructorShouldSetAmountAndCurrency], {ExactMatcher:fDisplayName=constructorShouldSetAmountAndCurrency(test_without_collaborators.MoneyParameterizedTest)], {LeadingIdentifierMatcher:fClassName=test_without_collaborators.MoneyParameterizedTest,fLeadingIdentifier=constructorShouldSetAmountAndCurrency]] from org.junit.internal.requests.ClassRequest@34ce8af7
+	at org.junit.internal.requests.FilterRequest.getRunner(FilterRequest.java:40)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.createFilteredTest(JUnit4TestLoader.java:83)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.createTest(JUnit4TestLoader.java:74)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.loadTests(JUnit4TestLoader.java:49)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:513)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+%TRACEE 
+%TESTE  1,initializationError(org.junit.runner.manipulation.Filter)
+%RUNTIME14

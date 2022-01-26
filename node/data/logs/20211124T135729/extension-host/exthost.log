@@ -1,0 +1,66 @@
+[2021-11-24 13:57:36.070] [exthost] [info] extension host started
+[2021-11-24 13:57:36.081] [exthost] [info] Lock '/home/jkunle/code_profiles/node/data/User/workspaceStorage/1f290161/vscode.lock': Lock acquired.
+[2021-11-24 13:57:36.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-11-24 13:57:36.363] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/debug-auto-launch/dist/extension
+[2021-11-24 13:57:36.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-11-24 13:57:36.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/git/dist/main
+[2021-11-24 13:57:36.466] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-11-24 13:57:36.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/christian-kohler.path-intellisense-2.4.1/out/extension.js
+[2021-11-24 13:57:36.477] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-11-24 13:57:36.478] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/pkief.material-icon-theme-4.0.1/dist/extension
+[2021-11-24 13:57:36.636] [exthost] [info] Extension 'christian-kohler.path-intellisense' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2021-11-24 13:57:36.676] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-11-24 13:57:36.676] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/github/dist/extension.js
+[2021-11-24 13:57:36.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-11-24 13:57:36.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-24 13:57:36.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-11-24 13:57:36.850] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-24 13:57:36.855] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-11-24 13:57:36.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension
+[2021-11-24 13:57:36.877] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-11-24 13:57:36.877] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-11-24 13:57:37.489] [exthost] [info] eager extensions activated
+[2021-11-24 13:57:37.495] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-11-24 13:57:37.495] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-24 13:57:37.868] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2021-11-24 13:57:55.200] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-24 13:57:55.200] [exthost] [info] Lock '/home/jkunle/code_profiles/node/data/User/workspaceStorage/1f290161/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-24 13:57:56.206] [exthost] [info] exiting with code 0
+[2021-11-24 13:58:01.655] [exthost] [info] extension host started
+[2021-11-24 13:58:01.664] [exthost] [info] Lock '/home/jkunle/code_profiles/node/data/User/workspaceStorage/6b70787e/vscode.lock': Lock acquired.
+[2021-11-24 13:58:01.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-11-24 13:58:01.886] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/debug-auto-launch/dist/extension
+[2021-11-24 13:58:01.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-11-24 13:58:01.894] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/git/dist/main
+[2021-11-24 13:58:02.010] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-11-24 13:58:02.010] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/christian-kohler.path-intellisense-2.4.1/out/extension.js
+[2021-11-24 13:58:02.021] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-11-24 13:58:02.021] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/pkief.material-icon-theme-4.0.1/dist/extension
+[2021-11-24 13:58:02.178] [exthost] [info] Extension 'christian-kohler.path-intellisense' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2021-11-24 13:58:02.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-11-24 13:58:02.216] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/github/dist/extension.js
+[2021-11-24 13:58:02.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-11-24 13:58:02.356] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-24 13:58:02.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-11-24 13:58:02.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-24 13:58:02.379] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-11-24 13:58:02.379] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/dbaeumer.vscode-eslint-2.1.10/client/out/extension
+[2021-11-24 13:58:02.404] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-11-24 13:58:02.404] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-11-24 13:58:02.990] [exthost] [info] eager extensions activated
+[2021-11-24 13:58:03.112] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-11-24 13:58:03.113] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-24 13:58:03.451] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2021-11-24 14:10:00.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-11-24 14:10:00.831] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/typescript-language-features/dist/extension
+[2021-11-24 14:10:00.982] [exthost] [info] ExtensionService#_doActivateExtension bierner.lit-html {"startup":false,"extensionId":{"value":"bierner.lit-html","_lower":"bierner.lit-html"},"activationEvent":"onLanguage:javascript"}
+[2021-11-24 14:10:00.982] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/bierner.lit-html-1.11.1/out/index.js
+[2021-11-24 14:10:01.021] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.npm-intellisense","_lower":"christian-kohler.npm-intellisense"},"activationEvent":"onLanguage:javascript"}
+[2021-11-24 14:10:01.021] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/code_profiles/node/extensions/christian-kohler.npm-intellisense-1.2.1/out/src/extension
+[2021-11-24 14:10:01.391] [exthost] [warning] [Deprecation Warning] 'workspace.rootPath' is deprecated. Please use 'workspace.workspaceFolders' instead. More details: https://aka.ms/vscode-eliminating-rootpath
+[2021-11-24 14:10:01.391] [exthost] [info] Extension 'christian-kohler.npm-intellisense' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2021-11-24 14:12:49.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-11-24 14:12:49.611] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jkunle/.local/lib/code-server-3.12.0/vendor/modules/code-oss-dev/extensions/extension-editing/dist/extensionEditingMain
+[2021-11-24 15:57:48.147] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-24 15:57:48.147] [exthost] [info] Lock '/home/jkunle/code_profiles/node/data/User/workspaceStorage/6b70787e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-24 15:57:49.183] [exthost] [info] exiting with code 0

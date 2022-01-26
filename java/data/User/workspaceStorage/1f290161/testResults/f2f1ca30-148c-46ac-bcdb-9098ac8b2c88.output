@@ -1,0 +1,10 @@
+%TESTC  2 v2
+%TSTTREE1,test_without_collaborators.MoneyParameterizedTest,true,1,false,-1,test_without_collaborators.MoneyParameterizedTest,,
+%TSTTREE2,constructorShouldSetAmountAndCurrency,true,2,false,-1,constructorShouldSetAmountAndCurrency,,
+%TSTTREE3,constructorShouldSetAmountAndCurrency(10\, USD) [0](test_without_collaborators.MoneyParameterizedTest),false,1,false,-1,constructorShouldSetAmountAndCurrency(10\, USD) [0](test_without_collaborators.MoneyParameterizedTest),,
+%TSTTREE4,constructorShouldSetAmountAndCurrency(20\, EUR) [1](test_without_collaborators.MoneyParameterizedTest),false,1,false,-1,constructorShouldSetAmountAndCurrency(20\, EUR) [1](test_without_collaborators.MoneyParameterizedTest),,
+%TESTS  3,constructorShouldSetAmountAndCurrency(10\, USD) [0](test_without_collaborators.MoneyParameterizedTest)
+%TESTE  3,constructorShouldSetAmountAndCurrency(10\, USD) [0](test_without_collaborators.MoneyParameterizedTest)
+%TESTS  4,constructorShouldSetAmountAndCurrency(20\, EUR) [1](test_without_collaborators.MoneyParameterizedTest)
+%TESTE  4,constructorShouldSetAmountAndCurrency(20\, EUR) [1](test_without_collaborators.MoneyParameterizedTest)
+%RUNTIME18

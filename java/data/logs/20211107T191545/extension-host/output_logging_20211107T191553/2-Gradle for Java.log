@@ -1,0 +1,20 @@
+[info] [gradle-server] Server started, listening on 46455
+[info] Gradle client connected to server
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+[info] JVM Args: --add-opens,java.base/java.util=ALL-UNNAMED,--add-opens,java.base/java.lang=ALL-UNNAMED,--add-opens,java.base/java.lang.invoke=ALL-UNNAMED,--add-opens,java.prefs/java.util.prefs=ALL-UNNAMED,-XX:MaxMetaspaceSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xms256m,-Xmx512m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant
+[info] Gradle User Home: /home/jkunle/.gradle
+[info] Gradle Version: 6.0
+[info] CONFIGURE SUCCESSFUL in 579ms
+[info] Found 29 tasks
+[info] CONFIGURE SUCCESSFUL in 6s
+[info] Found 29 tasks
+[error] [gradle-server] Could not execute build using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error running build: testClasses: Could not execute build using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] [gradle-server] Could not execute build using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[error] Error running build: build: Could not execute build using Gradle distribution 'https://services.gradle.org/distributions/gradle-6.0-bin.zip'.
+[info] [gradle-server] Shutting down gRPC server since JVM is shutting down
+[info] [gradle-server] Server shut down

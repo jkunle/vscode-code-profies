@@ -1,0 +1,10 @@
+%TESTC  0 v2
+%TSTTREE2,money.MoneyParameterizedTest,true,1,false,1,MoneyParameterizedTest,,[engine:junit-jupiter]/[class:money.MoneyParameterizedTest]
+%TSTTREE3,constructorShouldSetAmountAndCurrency(money.MoneyParameterizedTest),true,0,false,2,constructorShouldSetAmountAndCurrency(int\, String),int\, java.lang.String,[engine:junit-jupiter]/[class:money.MoneyParameterizedTest]/[test-template:constructorShouldSetAmountAndCurrency(int\, java.lang.String)]
+%TSTTREE4,constructorShouldSetAmountAndCurrency(money.MoneyParameterizedTest),false,1,true,3,[1] 10\, USD,int\, java.lang.String,[engine:junit-jupiter]/[class:money.MoneyParameterizedTest]/[test-template:constructorShouldSetAmountAndCurrency(int\, java.lang.String)]/[test-template-invocation:#1]
+%TESTS  4,constructorShouldSetAmountAndCurrency(money.MoneyParameterizedTest)
+%TESTE  4,constructorShouldSetAmountAndCurrency(money.MoneyParameterizedTest)
+%TSTTREE5,constructorShouldSetAmountAndCurrency(money.MoneyParameterizedTest),false,1,true,3,[2] 20\, EUR,int\, java.lang.String,[engine:junit-jupiter]/[class:money.MoneyParameterizedTest]/[test-template:constructorShouldSetAmountAndCurrency(int\, java.lang.String)]/[test-template-invocation:#2]
+%TESTS  5,constructorShouldSetAmountAndCurrency(money.MoneyParameterizedTest)
+%TESTE  5,constructorShouldSetAmountAndCurrency(money.MoneyParameterizedTest)
+%RUNTIME211

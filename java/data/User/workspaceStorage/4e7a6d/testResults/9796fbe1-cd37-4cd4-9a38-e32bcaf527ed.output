@@ -1,0 +1,13 @@
+%TESTC  3 v2
+%TSTTREE2,exercises.StringReversalTest,true,2,false,1,StringReversalTest,,[engine:junit-jupiter]/[class:exercises.StringReversalTest]
+%TSTTREE3,reverseOnNullThrowsIAE(exercises.StringReversalTest),false,1,false,2,reverseOnNullThrowsIAE(),,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[method:reverseOnNullThrowsIAE()]
+%TSTTREE4,reverseEmptyStringReturnsEmptyString(exercises.StringReversalTest),false,1,false,2,reverseEmptyStringReturnsEmptyString(),,[engine:junit-jupiter]/[class:exercises.StringReversalTest]/[method:reverseEmptyStringReturnsEmptyString()]
+%TSTTREE5,exercises.LibraryTest,true,1,false,1,LibraryTest,,[engine:junit-jupiter]/[class:exercises.LibraryTest]
+%TSTTREE6,testSomeLibraryMethod(exercises.LibraryTest),false,1,false,5,testSomeLibraryMethod(),,[engine:junit-jupiter]/[class:exercises.LibraryTest]/[method:testSomeLibraryMethod()]
+%TESTS  3,reverseOnNullThrowsIAE(exercises.StringReversalTest)
+%TESTE  3,reverseOnNullThrowsIAE(exercises.StringReversalTest)
+%TESTS  4,reverseEmptyStringReturnsEmptyString(exercises.StringReversalTest)
+%TESTE  4,reverseEmptyStringReturnsEmptyString(exercises.StringReversalTest)
+%TESTS  6,testSomeLibraryMethod(exercises.LibraryTest)
+%TESTE  6,testSomeLibraryMethod(exercises.LibraryTest)
+%RUNTIME150

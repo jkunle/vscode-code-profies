@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/jkunle/code_profiles/java/data/User/workspaceStorage/2c825374/redhat.java/.f35dfe837194daee23ecf47117ae1028cbce2226-audit.json",
+    "files": [
+        {
+            "date": 1635646259950,
+            "name": "/home/jkunle/code_profiles/java/data/User/workspaceStorage/2c825374/redhat.java/client.log.2021-10-31",
+            "hash": "d7281021c348580be1a116f892f17b7d"
+        }
+    ]
+}

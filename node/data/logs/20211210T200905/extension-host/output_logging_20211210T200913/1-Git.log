@@ -1,0 +1,177 @@
+Validating found git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/jkunle/source/node/node-firefox-sync
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :types.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/types.js
+> git cat-file -s 8e333eaab1c79859c1f4a7b1c4104113068e262a
+> git show --textconv :types.d.ts
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/types.d.ts
+> git cat-file -s 45ed52b76fbb672cdf5b36c134d9c85c3f30dba9
+> git show --textconv :types.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/types.js
+> git cat-file -s 8e333eaab1c79859c1f4a7b1c4104113068e262a
+> git show --textconv :bso.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/bso.js
+> git cat-file -s 99c9ba0a1524d904c58561ab43027a0e38820060
+> git show --textconv :auth.d.ts
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth.d.ts
+> git cat-file -s 3f6e446687e51348313a179e3242ec4b1df4286d
+> git show --textconv :auth.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth.js
+> git cat-file -s c05b86885eb34350f023250fe5d972f26dc420c9
+> git show --textconv :auth.d.ts
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth.d.ts
+> git cat-file -s 3f6e446687e51348313a179e3242ec4b1df4286d
+> git show --textconv :bso.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/bso.js
+> git cat-file -s 99c9ba0a1524d904c58561ab43027a0e38820060
+> git show --textconv :bso.d.ts
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/bso.d.ts
+> git cat-file -s bb197db1cc8f80245f0b3e7fc08052baa11b9a65
+> git show --textconv :bso.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/bso.js
+> git cat-file -s 99c9ba0a1524d904c58561ab43027a0e38820060
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/package.json
+> git cat-file -s 0e6132ab010d921b40a379135f5446c9b12602d6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :types.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/types.js
+> git cat-file -s 8e333eaab1c79859c1f4a7b1c4104113068e262a
+> git show --textconv :auth/defaults.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/defaults.js
+> git cat-file -s c0c18355259ce63ba2b2102b9f2b5da23c96339c
+> git show --textconv :auth/oauth-base.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/oauth-base.js
+> git cat-file -s 5b4da919e18f879421ec6d77715e3a07c456c4f7
+> git show --textconv :auth/oauth.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/oauth.js
+> git cat-file -s 7cc7c68de683108a562340e9c5f176807dc7bfd1
+> git show --textconv :auth/password.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/password.js
+> git cat-file -s e1bd49de7d59786821aa36ac30c6b8759ca64fa4
+> git show --textconv :auth/token-server.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/token-server.js
+> git cat-file -s 4d75f350a73e86b5ce4b0076091f7c6fcb9bad84
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/package.json
+> git cat-file -s 0e6132ab010d921b40a379135f5446c9b12602d6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/README.md
+> git cat-file -s 5e2a9747e3094efe7c923934638acdffced8f5f8
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/package.json
+> git cat-file -s 0e6132ab010d921b40a379135f5446c9b12602d6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jkunle/source/node/node-firefox-sync/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :types.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/types.js
+> git cat-file -s 8e333eaab1c79859c1f4a7b1c4104113068e262a
+> git show --textconv :auth/oauth-base.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/oauth-base.js
+> git cat-file -s 5b4da919e18f879421ec6d77715e3a07c456c4f7
+> git show --textconv :types.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/types.js
+> git cat-file -s 8e333eaab1c79859c1f4a7b1c4104113068e262a
+> git show --textconv :index.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/index.js
+> git cat-file -s 9dcdf08f14af6b47f812064ec972511fff710299
+> git show --textconv :bso.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/bso.js
+> git cat-file -s 99c9ba0a1524d904c58561ab43027a0e38820060
+> git show --textconv :auth.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth.js
+> git cat-file -s c05b86885eb34350f023250fe5d972f26dc420c9
+> git show --textconv :auth/token-server.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/token-server.js
+> git cat-file -s 4d75f350a73e86b5ce4b0076091f7c6fcb9bad84
+> git show --textconv :auth/password.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/password.js
+> git cat-file -s e1bd49de7d59786821aa36ac30c6b8759ca64fa4
+> git show --textconv :auth/oauth.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/oauth.js
+> git cat-file -s 7cc7c68de683108a562340e9c5f176807dc7bfd1
+> git show --textconv :auth/oauth-base.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/oauth-base.js
+> git cat-file -s 5b4da919e18f879421ec6d77715e3a07c456c4f7
+> git show --textconv :auth/defaults.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/defaults.js
+> git cat-file -s c0c18355259ce63ba2b2102b9f2b5da23c96339c
+> git show --textconv :auth/token-server.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/auth/token-server.js
+> git cat-file -s 4d75f350a73e86b5ce4b0076091f7c6fcb9bad84
+> git show --textconv :types.js
+> git ls-files --stage -- /home/jkunle/source/node/node-firefox-sync/types.js
+> git cat-file -s 8e333eaab1c79859c1f4a7b1c4104113068e262a
